@@ -1,4 +1,5 @@
 # Bank-Customer-Analytics-Dashboard
+<img width="1004" height="625" alt="Screenshot 2026-06-20 102341" src="https://github.com/user-attachments/assets/764b4298-11e5-4671-b021-2a5cd14ca6b6" />
 
 ## Overview
 
