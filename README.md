@@ -1,8 +1,5 @@
 # Bank-Customer-Analytics-Dashboard
 
-
-- <img width="1004" height="625" alt="Screenshot 2026-06-20 102341" src="https://github.com/user-attachments/assets/0abf9914-38c4-4452-9645-9900b8d669b9" />
-
 ## Overview
 
 This project analyzes customer, account, and transaction data using SQL and Power BI. The dashboard provides insights into customer demographics, account performance, loan distribution, regional balances, and transaction trends.
